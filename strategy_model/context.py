@@ -1,5 +1,5 @@
 # coding=utf-8
-# 上下文, 维护一个对strategy对象的引用
+# 上下文, 维护一个对strategy对象的引用,这个例子结合了简单工厂模式,再客户端隐藏了代码
 from strategy_main import*
 
 
